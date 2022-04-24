@@ -1,7 +1,7 @@
 main: io.github.kkauaon.Plugin
 name: kCasas
 description: Plugin de Casas
-api-version: 1.18
+api-version: 1.16
 version: 1.0.0
 author: KKauaBR
 

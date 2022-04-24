@@ -15,10 +15,10 @@ public class CasasCommand implements CommandExecutor {
             Player player = (Player) sender;
         }
 
-        sender.sendMessage(
-            ChatColor.translateAlternateColorCodes('&', "&bSuas casas salvas"),
-            ChatColor.translateAlternateColorCodes('&', "&7teste")
-        );
+        sender.sendMessage(new String[] {
+            ChatColor.translateAlternateColorCodes('&', "&bSuas casas salvas:"),
+            ChatColor.translateAlternateColorCodes('&', "&7TODO")
+        });
         return true;
     }
 }
