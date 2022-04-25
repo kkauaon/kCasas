@@ -10,3 +10,7 @@ commands:
       description: Ver suas casas salvas
       permission: kcasas.ver
       usage: /<command>
+   kcasas:
+      description: Config kCasas
+      permission: kcasas.admin
+      usage: /<command>

@@ -1,0 +1,5 @@
+your-homes: '&bSuas casas salvas:'
+other-player-homes: '&bCasas de {PLAYER}'
+no-homes-set: '&7Você não tem nenhuma casa salva'
+unknown-subcommand: '&cEste subcomando não existe!'
+reload: '&aConfigurações recarregadas!'
